@@ -3,7 +3,6 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
 
 let passwordContent = document.getElementsByClassName("password-content")
 let passwordFields = document.getElementsByClassName("password");
-console.log(passwordContent)
 
 for(let i = 0; i < passwordFields.length; i++) {
     passwordFields[i].style.cursor = "pointer"
