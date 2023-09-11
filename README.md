@@ -1,2 +1,2 @@
 # Password Generator
-A password generator I made as a while learning HTML, CSS and JS
+A password generator website that generates strong passwords.
